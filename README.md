@@ -1,6 +1,6 @@
 <!-- animation start  -->
 <!-- ![Typing
-SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8+Hi+%2C+I'm+MUHAMMAD+UMER+F+%F0%9F%92%AF;%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5Passionate+Full+Stack+Developer%F0%9F%92%BB;Always++Learning%F0%9F%92%A1;Dedicated+to+Work%F0%9F%92%AA%F0%9F%8F%BB;Experience+Seeker%F0%9F%92%AF;from+Karachi%2C+Pakistan%F0%9F%87%B5%F0%9F%87%B0) -->
+SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8+Hi+%2C+I'm+SHEHZAD+%F0%9F%92%AF;%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5Passionate+Full+Stack+Developer%F0%9F%92%BB;Always++Learning%F0%9F%92%A1;Dedicated+to+Work%F0%9F%92%AA%F0%9F%8F%BB;Experience+Seeker%F0%9F%92%AF;from+Karachi%2C+Pakistan%F0%9F%87%B5%F0%9F%87%B0) -->
 <!-- animation end  -->
 <!-- <img align="right" alt="Coding" width="400" style="border-radius:20px;"
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
@@ -82,7 +82,12 @@ As code is my canvas for crafting masterpieces!</h2>
 <hr>
 <br>
 
+## Recent Activity
 
+<!--START_SECTION:activity-->
+
+
+<!--END_SECTION:activity-->
 
 <hr>
 <br>
@@ -93,4 +98,16 @@ As code is my canvas for crafting masterpieces!</h2>
 	<p align="center">
 		<img
 			src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" /><br>
-	<h2 align
+	<h2 align="center">Time spent on Coding evidence! (WakaTime)</h2>
+	<p align="center">
+		<img src="https://wakatime.com/share/@shehzad/0548f3ab-f1b2-4566-8da8-08f5040c49cd.svg" width="95%">
+		<br>
+		<img src="https://wakatime.com/share/@shehzad/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" width="95%">
+		<br><br>
+		<img
+			src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en&count_private=true&theme=outrun" />
+		<br> <br>
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&theme=outrun" />
+		<br> <br>
+		<img src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=algolia&no-frame=true&column=-1" />
+	</p>
