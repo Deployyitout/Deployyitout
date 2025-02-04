@@ -32,17 +32,7 @@ As code is my canvas for crafting masterpieces!</h2>
 </p>
 
 <hr>
-<h3 align="left">📫 Connect with me on 🔗 :</h3>
 
-<p align="left">
-	
-	
-	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
-		alt="shehza-d" align="right" />
-	<img align="right" src='https://user-badge.committers.top/pakistan/shehza-d.svg' align="center"
-	title="Ranking in Pakistan for Top Github committer" />
-	<a align="right" href="https://wakatime.com/@shehzad"><img align="right" src="https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg?style=for-the-badge" alt="Total time coded since Oct 2 2022" /></a>
-</p>
 <hr>
 
 <h3 align="left">Languages and Tools ⚙️ : </h3>
