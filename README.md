@@ -25,33 +25,10 @@ As code is my canvas for crafting masterpieces!</h2>
 | Currently Learning | DSA, NestJs |
 | ------------------ | ----------- |
 
-<p align="center">
-	<a href="https://shehzad.vercel.app/" align="center" target="_blank"
-		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL
-		PORTFOLIO WEBSITE</a>
-</p>
+
 
 <hr>
-<h3 align="left">📫 Connect with me on 🔗 :</h3>
 
-<p align="left">
-	<a href="https://www.linkedin.com/in/shehza-d" target="blank"><img align="center"
-			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
-	<a href="https://twitter.com/shehza_d_" target="blank" style="padding:8px"><img align="center" style="margin:8px"
-			src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
-	<a href="https://leetcode.com/shehza-d/" target="blank"><img align="center" style="border-radius:12px;" src="./icons/leetcode1.png"
-			alt="leetcode" height="50" width="50" /></a>
-	<a href="https://instagram.com/shehza.d" target="blank" style="padding:8px"><img align="center"
-			src="https://skillicons.dev/icons?i=instagram" alt="shehza.d" height="50" width="50" /></a>
-	<a href="https://www.youtube.com/@shehza-d" target="blank"><img align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-			alt="YouTube" height="50" width="50" /></a>
-	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
-		alt="shehza-d" align="right" />
-	<img align="right" src='https://user-badge.committers.top/pakistan/shehza-d.svg' align="center"
-	title="Ranking in Pakistan for Top Github committer" />
-	<a align="right" href="https://wakatime.com/@shehzad"><img align="right" src="https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg?style=for-the-badge" alt="Total time coded since Oct 2 2022" /></a>
-</p>
 <hr>
 
 <h3 align="left">Languages and Tools ⚙️ : </h3>
