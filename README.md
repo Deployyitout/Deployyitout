@@ -1,6 +1,6 @@
 <!-- animation start  -->
 <!-- ![Typing
-SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8+Hi+%2C+I'm+SHEHZAD+%F0%9F%92%AF;%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5Passionate+Full+Stack+Developer%F0%9F%92%BB;Always++Learning%F0%9F%92%A1;Dedicated+to+Work%F0%9F%92%AA%F0%9F%8F%BB;Experience+Seeker%F0%9F%92%AF;from+Karachi%2C+Pakistan%F0%9F%87%B5%F0%9F%87%B0) -->
+SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8+Hi+%2C+I'm+MUHAMMAD+UMER+F+%F0%9F%92%AF;%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5Passionate+Full+Stack+Developer%F0%9F%92%BB;Always++Learning%F0%9F%92%A1;Dedicated+to+Work%F0%9F%92%AA%F0%9F%8F%BB;Experience+Seeker%F0%9F%92%AF;from+Karachi%2C+Pakistan%F0%9F%87%B5%F0%9F%87%B0) -->
 <!-- animation end  -->
 <!-- <img align="right" alt="Coding" width="400" style="border-radius:20px;"
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
@@ -25,10 +25,33 @@ As code is my canvas for crafting masterpieces!</h2>
 | Currently Learning | DSA, NestJs |
 | ------------------ | ----------- |
 
-
+<p align="center">
+	<a href="https://shehzad.vercel.app/" align="center" target="_blank"
+		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL
+		PORTFOLIO WEBSITE</a>
+</p>
 
 <hr>
+<h3 align="left">📫 Connect with me on 🔗 :</h3>
 
+<p align="left">
+	<a href="https://www.linkedin.com/in/shehza-d" target="blank"><img align="center"
+			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
+	<a href="https://twitter.com/shehza_d_" target="blank" style="padding:8px"><img align="center" style="margin:8px"
+			src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
+	<a href="https://leetcode.com/shehza-d/" target="blank"><img align="center" style="border-radius:12px;" src="./icons/leetcode1.png"
+			alt="leetcode" height="50" width="50" /></a>
+	<a href="https://instagram.com/shehza.d" target="blank" style="padding:8px"><img align="center"
+			src="https://skillicons.dev/icons?i=instagram" alt="shehza.d" height="50" width="50" /></a>
+	<a href="https://www.youtube.com/@shehza-d" target="blank"><img align="center"
+			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+			alt="YouTube" height="50" width="50" /></a>
+	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
+		alt="shehza-d" align="right" />
+	<img align="right" src='https://user-badge.committers.top/pakistan/shehza-d.svg' align="center"
+	title="Ranking in Pakistan for Top Github committer" />
+	<a align="right" href="https://wakatime.com/@shehzad"><img align="right" src="https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg?style=for-the-badge" alt="Total time coded since Oct 2 2022" /></a>
+</p>
 <hr>
 
 <h3 align="left">Languages and Tools ⚙️ : </h3>
@@ -82,12 +105,7 @@ As code is my canvas for crafting masterpieces!</h2>
 <hr>
 <br>
 
-## Recent Activity
 
-<!--START_SECTION:activity-->
-
-
-<!--END_SECTION:activity-->
 
 <hr>
 <br>
@@ -98,16 +116,4 @@ As code is my canvas for crafting masterpieces!</h2>
 	<p align="center">
 		<img
 			src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" /><br>
-	<h2 align="center">Time spent on Coding evidence! (WakaTime)</h2>
-	<p align="center">
-		<img src="https://wakatime.com/share/@shehzad/0548f3ab-f1b2-4566-8da8-08f5040c49cd.svg" width="95%">
-		<br>
-		<img src="https://wakatime.com/share/@shehzad/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" width="95%">
-		<br><br>
-		<img
-			src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en&count_private=true&theme=outrun" />
-		<br> <br>
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&theme=outrun" />
-		<br> <br>
-		<img src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=algolia&no-frame=true&column=-1" />
-	</p>
+	<h2 align
